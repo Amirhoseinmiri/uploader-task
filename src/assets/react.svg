@@ -1,0 +1,24 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    xmlnsXlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 841.9 595.3"
+>
+    <g fill="none" stroke="#61DAFB" strokeWidth="20">
+        <ellipse cx="420.9" cy="296.5" rx="165.9" ry="165.9" />
+        <ellipse
+            cx="420.9"
+            cy="296.5"
+            rx="235"
+            ry="85"
+            transform="rotate(60 420.9 296.5)"
+        />
+        <ellipse
+            cx="420.9"
+            cy="296.5"
+            rx="235"
+            ry="85"
+            transform="rotate(-60 420.9 296.5)"
+        />
+    </g>
+    <circle cx="420.9" cy="296.5" r="20" fill="#61DAFB" />
+</svg>
